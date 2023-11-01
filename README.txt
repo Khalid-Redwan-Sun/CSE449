@@ -1,9 +1,9 @@
 Link to unlisted YouTube video:
-[](https://www.youtube.com/@Khalid_Redwan/featured)
+https://www.youtube.com/@Khalid_Redwan/featured
 
 
 Public link to the slide (Anyone on the internet can view without login):
-[](https://docs.google.com/presentation/d/1VeQdFNR-_pOWuF7FLZpvfGwfMlF4bpWhRvjDh32LIMU/edit?usp=sharing)
+https://docs.google.com/presentation/d/1VeQdFNR-_pOWuF7FLZpvfGwfMlF4bpWhRvjDh32LIMU/edit?usp=sharing
 
 
 Paper title:
